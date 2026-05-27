@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#f5d76e"/><stop offset="1" stop-color="#b88921"/></linearGradient></defs>
+  <rect width="420" height="180" rx="36" fill="#090806"/>
+  <circle cx="86" cy="80" r="38" fill="none" stroke="url(#g)" stroke-width="8"/>
+  <path d="M72 58h28v72H72z" fill="url(#g)" opacity=".92"/>
+  <path d="M64 52c20-22 58-10 60 20" fill="none" stroke="#fff3b0" stroke-width="5" stroke-linecap="round" opacity=".85"/>
+  <text x="150" y="78" font-family="Georgia, serif" font-size="34" font-weight="700" fill="url(#g)">Brink &amp;</text>
+  <text x="150" y="120" font-family="Georgia, serif" font-size="42" font-weight="700" fill="url(#g)">Chopp</text>
+  <text x="154" y="144" font-family="Arial, sans-serif" font-size="13" letter-spacing="3" fill="#d7c796">MUITO MAIS QUE CHOPP</text>
+</svg>
